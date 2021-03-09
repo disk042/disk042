@@ -1,4 +1,4 @@
-### My name is Daisuke Tashiro.
+### Hi!! I'm Daisuke Tashiro.
 ### My job is a web developer in Fukuoka.
 
 #### 
