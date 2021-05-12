@@ -1,5 +1,5 @@
 ### Hi!! I'm Daisuke Tashiro.
-### My job is a web developer in Fukuoka.
+### I'm working as a web developer in Fukuoka.
 
 #### 
 I have two daughters and a wife. I am living happy days every day.
