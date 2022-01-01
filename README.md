@@ -1,5 +1,6 @@
 ### Hi!! I'm Daisuke Tashiro.
 ### I'm working as a web developer in Fukuoka.
+### PHPer, Rubyist.
 
 #### 
 I have two daughters and a wife. I am living happy days every day.
