@@ -3,7 +3,6 @@
 ### Rubyist.
 
 #### 
-I have two daughters and a wife. I am living happy days every day.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=disk042)
 
