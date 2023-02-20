@@ -1,6 +1,6 @@
 ### Hi!! I'm Daisuke Tashiro.
 ### I'm working as a web developer in Fukuoka.
-### Rubyist.
+### Rubyist!!
 
 #### 
 
